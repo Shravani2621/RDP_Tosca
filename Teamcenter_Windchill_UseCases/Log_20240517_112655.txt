@@ -1,0 +1,30 @@
+[3] 11:26:55: Log started for 'C:\Tosca_Projects\RDP_Tosca\Tosca_Workspaces\Teamcenter_Windchill_UseCases\Teamcenter_Windchill_UseCases.tws'
+[3] 11:26:55: Log level: 4
+[3] 11:26:55: Release: 23.2.0.3226
+[3] 11:26:56: Execution Approval is disabled.
+[3] 11:26:56: No service discovery configured.
+[3] 11:26:56:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 23.2.0.3226 (3226)
+[3] 11:26:56:  + DistributedExecutionAddIn: DistributedExecutionAddIn 23.2.0.3226 (3226)
+[3] 11:26:56:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 23.2.0.3226 (3226)
+[3] 11:26:56:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 23.2.0.3226 (3226)
+[3] 11:26:56:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 23.2.0.3226 (3226)
+[3] 11:26:56:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 23.2.0.3226 (3226)
+[3] 11:26:56:  + IntegrationManagementAddIn: IntegrationManagementAddIn 23.2.0.3226 (3226)
+    + : SAPSolutionManagerIntegration 23.2.0.3226 (3226)
+[3] 11:26:56: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 11:26:56: Searcher found 0 results in 126.7235 ms
+[3] 11:26:56:  + OptIntAddIn: OptIntAddIn 23.2.0.3226 (3226)
+[3] 11:26:56:  + QTestIntegrationAddIn: QTestIntegrationAddIn 23.2.0.3226 (3226)
+[3] 11:26:56:  + RemoteControl: RemoteControlAddIn 23.2.0.3226 (3226)
+[3] 11:26:56:  + Reporting: ReportingAddIn 23.2.0.3226 (3226)
+[3] 11:26:56:  + ReportingUI: ReportingUIAddIn 23.2.0.3226 (3226)
+[3] 11:26:56:  + RequirementsManagementAddIn: RequirementsManagement 23.2.0.3226 (3226)
+[3] 11:26:56:  + RequirementsManagementUIAddIn: RequirementsManagementUI 23.2.0.3226 (3226)
+[3] 11:26:56:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 23.2.0.3226 (3226)
+[3] 11:26:56:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 23.2.0.3226 (3226)
+[3] 11:26:56:  + TestCaseDesign: TestCaseDesign 23.2.0.3226 (3226)
+[3] 11:26:56:  + ControlFlowDiagram: TestCaseVisualizationAddIn 23.2.0.3226 (3226)
+[3] 11:26:56:  + XDefinitions: XDefinitions 23.2.0.3226 (3226)
+[3] 11:26:56:  + XDefinitionsUI: XDefinitionsUI 23.2.0.3226 (3226)
+[3] 11:26:56: Opened from Workspace File 'C:\Tosca_Projects\RDP_Tosca\Tosca_Workspaces\Teamcenter_Windchill_UseCases\Teamcenter_Windchill_UseCases.tws'
+[4] 11:27:02:  ShowStatusInfo: 'Ready'

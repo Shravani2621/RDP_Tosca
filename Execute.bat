@@ -1,3 +1,3 @@
 cd %COMMANDER_HOME%
 
-tcshell -workspace "D:\Tosca_Projects\Tosca_Devops\Tosca_Workspaces\Team Center Demo Use Cases\Team Center Demo Use Cases.tws" -login "" "" "C:\Tosca_Projects\ToscaGithub\script.tcs"
+tcshell -workspace "C:\Tosca_Projects\RDP_Tosca\Teamcenter_Windchill_UseCases\Teamcenter_Windchill_UseCases.tws" -login "" "" "C:\Tosca_Projects\RDP_Tosca\script.tcs"
