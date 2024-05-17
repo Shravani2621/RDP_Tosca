@@ -19,4 +19,4 @@ git commit -m "Tosca Changes are Commited"
 git pull origin
 
 # Push changes to the remote repository
-git push origin master
+git push origin main

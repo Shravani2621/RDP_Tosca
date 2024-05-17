@@ -102,3 +102,5 @@
 [4] 11:17:17:  ShowStatusInfo: 'Refresh all finished'
 [3] 11:17:17: OpenWorkspace took 00:00:24.9383102 to finish
 [2] 11:17:17: Common repository is not available
+[3] 11:18:24: Closing Workspace!
+[3] 11:18:24: Log closed!
